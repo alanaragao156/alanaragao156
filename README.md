@@ -1,16 +1,43 @@
-## Hi there 👋
+# Alan Aragão
 
-<!--
-**alanaragao156/alanaragao156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência de Dados e Inteligência Artificial**, com interesse em análise de dados, automação e soluções tecnológicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+Atuo no desenvolvimento de projetos acadêmicos e pessoais voltados à área de tecnologia, com foco em lógica computacional, análise de dados e aplicação prática de conceitos de Ciência de Dados e Inteligência Artificial.
+
+Busco oportunidades para aprendizado contínuo e crescimento profissional na área de Tecnologia.
+
+---
+
+## Tecnologias
+- Python  
+- Pandas / NumPy  
+- SQL  
+- Git & GitHub  
+- Lógica de Programação  
+- Fundamentos de Ciência de Dados e IA  
+
+---
+
+## Projetos
+Repositórios focados em:
+- Análise e tratamento de dados  
+- Automação de tarefas  
+- Projetos acadêmicos  
+- Estudos e experimentação  
+
+Alguns projetos estão organizados em uma organization dedicada ao portfólio.
+
+---
+
+## Objetivo
+Atuar na área de Tecnologia, com foco em Ciência de Dados, Inteligência Artificial ou áreas correlatas.
+
+---
+
+## Contato
+GitHub: https://github.com/alanaragao156  
+LinkedIn: (adicionar)
+
