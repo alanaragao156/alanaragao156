@@ -35,9 +35,5 @@ Alguns projetos estão organizados em uma organization dedicada ao portfólio.
 ## Objetivo
 Atuar na área de Tecnologia, com foco em Ciência de Dados, Inteligência Artificial ou áreas correlatas.
 
----
 
-## Contato
-GitHub: https://github.com/alanaragao156  
-LinkedIn: (adicionar)
 
